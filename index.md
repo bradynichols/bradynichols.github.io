@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+
+HELLO!
+
+My name is Brady Nichols and I'm a senior at Bowdoin College studying math and phyics with an ecology & evolutionary biology minor!
