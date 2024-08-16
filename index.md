@@ -6,9 +6,13 @@ layout: home
 ---
 
 
-HELLO!
+Welcome!
 
-My name is Brady Nichols and I am a first-year PhD student in the Animal [Behavior Graduate Group](https://anb.ucdavis.edu/) and the [Combes Lab](https://combeslab.faculty.ucdavis.edu/) at the University of California, Davis. Research-wise I plan to work on the interplay between biomechanics and ecology of insects, potentially working on turbulence and predator-prey interactions. I also have a passing interest in paleobiology and biogeography. 
+My name is Brady Nichols and I am a first-year PhD student in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) and the [Combes Lab](https://combeslab.faculty.ucdavis.edu/) at the University of California, Davis. I haven't really begun serious research in grad school yet, but I broadly plan to work on the interplay between physics and insect ecology covering topics like turbulence, predator-prey interactions, biogeography, and paleobiomechanics.
+
+On this website you'll find 
+
+
 
 
 
