@@ -8,8 +8,8 @@ As noted in the home page, my name is Brady Nichols and I'm a senior (class of 2
 
 Outside of academics I like **rock climbing**, **running**, **birding**, and **journaling or reading** while drinking tea or coffee pretending that I am a movie protagonist in a fancy café. I also occasionally play clarinet (in concert band here at Bowdoin) and ultimate frisbee.
 
-<!-- <div style="text-align: center;">
-<img src="/images/brady.jpeg" alt="Brady!" width="500"/>
+<div style="text-align: center;">
+<img src="/images/me_falsebay.jpeg" alt="Brady!" width="500"/>
 </div>
 
-(Me after hiking the Beehive Trail in Acadia National Park, Maine.) -->
+(Me in Friday Harbor, WA!)
