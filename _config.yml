@@ -23,7 +23,8 @@ author:
   name: Brady Nichols
   email: brnichols@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website which includes some academic material and a personal touch here and there :)
+  PhD student exploring how physics shapes nature through organismal biomechanics and animal behavior.
+  And doing some writing along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: Horned_Lark
