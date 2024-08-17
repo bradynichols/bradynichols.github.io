@@ -5,11 +5,17 @@
 layout: home
 ---
 
-&nbsp;
+<!-- &nbsp; -->
+
+<div style="text-align: center;">
+<img src="/images/damselfly.jpg" alt="Brady!" width="800"/>
+<br>
+<!-- (Me in Friday Harbor, WA!) -->
+</div>
 
 # Welcome!
 
-My name is Brady Nichols and I am a first-year PhD student in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) and the [Combes Lab](https://combeslab.faculty.ucdavis.edu/) at the University of California, Davis. I haven't really begun serious research in grad school yet, but I broadly plan to work on the interplay between physics and insect ecology covering topics like turbulence, predator-prey interactions, biogeography, and paleobiomechanics.
+My name is Brady Nichols and I am a first-year PhD student in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) and the [Combes Lab](https://combeslab.faculty.ucdavis.edu/) at the University of California, Davis. I haven't really begun serious research in grad school yet, but I broadly plan to work on the interplay between biomechanics and insect ecology covering topics like turbulence, predator-prey interactions, biogeography, and paleobiomechanics.
 
 Poke around to learn more about me and the work that I do, see some of my art, and read some of my writing! Feel free to reach out if you have any questions, my email is in the footer. Have a great day!
 
