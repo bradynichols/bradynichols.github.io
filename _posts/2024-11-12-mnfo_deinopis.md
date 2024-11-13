@@ -25,12 +25,12 @@ Since I’m willing to bet that you, dear reader, are not an insect, I encourage
 
 
 ## Works Cited
-[1] Stafstrom, J. A., Menda, G., Nitzany, E. I., Hebets, E. A., & Hoy, R. R. (2020). Ogre-Faced, Net-Casting Spiders Use Auditory Cues to Detect Airborne Prey. Current Biology, 30(24), 5033-5039.e3. [https://doi.org/10.1016/j.cub.2020.09.048](https://doi.org/10.1016/j.cub.2020.09.048)
+[1] Stafstrom, J. A., Menda, G., Nitzany, E. I., Hebets, E. A., & Hoy, R. R. (2020). Ogre-Faced, Net-Casting Spiders Use Auditory Cues to Detect Airborne Prey. *Current Biology, 30*(24), 5033-5039.e3. [https://doi.org/10.1016/j.cub.2020.09.048](https://doi.org/10.1016/j.cub.2020.09.048)
 
-[2] Stafstrom, J. A., & Hebets, E. A. (2016). Nocturnal foraging enhanced by enlarged secondary eyes in a net-casting spider. Biology Letters, 12(5). [https://doi.org/10.1098/rsbl.2016.0152](https://doi.org/10.1098/rsbl.2016.0152)
+[2] Stafstrom, J. A., & Hebets, E. A. (2016). Nocturnal foraging enhanced by enlarged secondary eyes in a net-casting spider. *Biology Letters, 12*(5). [https://doi.org/10.1098/rsbl.2016.0152](https://doi.org/10.1098/rsbl.2016.0152)
 
 [3] Foelix, R. F. (2011). Biology of spiders (3rd ed). Oxford University Press. [Google Books link](https://www.google.com/books/edition/Biology_of_Spiders/fLKZtBJBjqMC?hl=en)
 
-[4] Blest, A. D., & Land, M. F. (1977). The physiological optics of Dinopis subrufus L. Koch: A fish-lens in a spider. Proceedings of the Royal Society of London. Series B, Biological Sciences, 196(1123), 197–222. [https://doi.org/10.1098/rspb.1977.0037](https://doi.org/10.1098/rspb.1977.0037)
+[4] Blest, A. D., & Land, M. F. (1977). The physiological optics of Dinopis subrufus L. Koch: A fish-lens in a spider. *Proceedings of the Royal Society of London. Series B, Biological Sciences, 196*(1123), 197–222. [https://doi.org/10.1098/rspb.1977.0037](https://doi.org/10.1098/rspb.1977.0037)
 
-[5] Blest, A. D. (1978). The rapid synthesis and destruction of photoreceptor membrane by a dinopid spider: A daily cycle. Proceedings of the Royal Society of London. Series B. Biological Sciences, 200(1141). [https://doi.org/10.1098/rspb.1978.0027](https://doi.org/10.1098/rspb.1978.0027)
+[5] Blest, A. D. (1978). The rapid synthesis and destruction of photoreceptor membrane by a dinopid spider: A daily cycle. *Proceedings of the Royal Society of London. Series B. Biological Sciences, 200*(1141). [https://doi.org/10.1098/rspb.1978.0027](https://doi.org/10.1098/rspb.1978.0027)
