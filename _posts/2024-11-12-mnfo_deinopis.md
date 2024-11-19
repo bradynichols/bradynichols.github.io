@@ -7,12 +7,14 @@ categories: MNFO, spiders
 
 # My New Favorite Organism: The ogre-faced, net-casting spider
 
-NOTE: This article, in a shorter form, originally appeared as [a Halloween special-edition "Creature Feature" for our graduate group's blog, The Ethogram](https://theethogram.com/2024/10/31/the-species-that-spook-us-ogre-faced-net-casting-spider/). It appears here as the first entry to a new series here, *My New Favorite Organism* (MNFO)!
+NOTE: This article, in a shorter form, originally appeared as a Halloween special-edition "Creature Feature" for The Ethogram. I expanded it for a fellowship application and decided to toss it up here as an instance of a series I might call "my new favorite organism", highlighting the wonder of learning about an organism you've never even heard of before.
+
+---
 
 The ogre-faced, net-casting spider (Family Deinopidae: *Deinopis spinosa*) has a terrifying name and a “circadian Jekyll and Hyde” lifestyle to match [1]. During the day they appear as odd lumps in their home palm trees, but the night transforms them into fierce predators. These high-strung spiders literally take matters into their own hands, fashioning their silk into a net that they wield between their front legs. Hanging upside-down armed with this engineering and some patience, *Deinopis spinosa* should strike fear into any insect within range. Some are caught beneath the watchful Deinopid eye. Met with a forward strike of the web like sticky plastic wrap on a bowl of six-legged soup, walking insects stand no chance as they are bitten, wrapped, liquified, and consumed. The spider’s eyes are doing work here—Jay Stafstrom, who also dubbed them “some of the coolest spiders on the planet”, occluded their vision and found them no longer able to catch walking prey. But these blind spiders had no problem hunting flying prey [2]. What?!
 
 <div style="text-align: center;">
-<img src="/images/deinopis.png" alt="Brady!" width="800"/>
+<img src="/images/deinopis.png" alt="deinopis" width="800"/>
 <br>
 A: The unique eyes of *Deinopis spinosa*. B: An ogre-faced spider hanging upside-down with its net. Used from [1].
 </div>
