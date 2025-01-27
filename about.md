@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-Link to CV: [Curriculum Vitae](/images/bradynicholsCV.pdf)
+Link to CV: [Curriculum Vitae](/images/nichols_CV_jan272025.pdf)
 
 
 <div style="text-align: center;">
