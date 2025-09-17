@@ -5,7 +5,7 @@ permalink: /research/
 order: 2
 ---
 
-This page is more of an animated write-up of my interests. For a comprehensive list of my one publication thus far, see my [CV](../about).
+This page is more of an animated write-up of my interests. Also see my [CV](../about).
 
 
 # Current interests: turbulence, flying insects, paleontology

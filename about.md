@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-Link to CV: [Curriculum Vitae](/images/nichols_CV_jan272025.pdf)
+Link to CV (last updated Jan 27, 2025): [Curriculum Vitae](/images/nichols_CV_jan272025.pdf)
 
 
 <div style="text-align: center;">
@@ -16,7 +16,7 @@ Link to CV: [Curriculum Vitae](/images/nichols_CV_jan272025.pdf)
 
 <br>
 
-As noted in the home page, I am a first-year PhD student in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) and the [Combes Lab](https://combeslab.faculty.ucdavis.edu/) at the University of California, Davis. My research interests are iterated in more detail in [Research](../research); here is where you get to learn more about me.
+As noted in the home page, I am a second-year PhD student in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) and the [Combes Lab](https://combeslab.faculty.ucdavis.edu/) at the University of California, Davis. My research interests are iterated in more detail in [Research](../research); here is where you get to learn more about me.
 
 Before coming to California, I did my undergrad in math and physics with a biology minor at Bowdoin College in Brunswick, Maine. I had a pretty nonlinear trajectory entering as a biology major, doing a total 180 and getting interested in pure math, and eventually settling down in this weird but awesome middle ground we call biomechanics thanks to Amy Johnson's biomechanics course. 
 

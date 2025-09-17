@@ -6,7 +6,9 @@ order: 3
 
 # Introduction
 
-I figured it'd be good to contextualize my blog a bit. My background is in math and physics, but my current research interests have called for learning a ton of ecology/evolution/paleobiology recently, so many of my posts might touch on those fields. I am hoping to also use this as a way to stay in touch with the mathematical side of life, though. And I always welcome comments (via email until I change platforms or figure out how to add blog comments in Jekyll) if anything I say is inaccurate or could be clarified—learning is a huge reason why I write, after all.
+There's not a lot going on here quite yet, but perhaps one day I will have more to say.
+
+<!-- I figured it'd be good to contextualize my blog a bit. My background is in math and physics, but my current research interests have called for learning a ton of ecology/evolution/paleobiology recently, so many of my posts might touch on those fields. I am hoping to also use this as a way to stay in touch with the mathematical side of life, though. And I always welcome comments (via email until I change platforms or figure out how to add blog comments in Jekyll) if anything I say is inaccurate or could be clarified—learning is a huge reason why I write, after all. -->
 
 <!-- # What, and why, write?
 I think it's good for a blog to have a sort of "mission statement" so you dear readers know what to expect if you stick around:
