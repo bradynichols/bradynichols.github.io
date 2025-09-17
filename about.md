@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-Link to CV (last updated Jan 27, 2025): [Curriculum Vitae](/images/nichols_CV_jan272025.pdf)
+Link to CV (last updated Jan 27, 2025): [Curriculum Vitae](/images/nichols_cv_sep172025.pdf)
 
 
 <div style="text-align: center;">
