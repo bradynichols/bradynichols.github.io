@@ -23,8 +23,7 @@ author:
   name: Brady Nichols
   email: brnichols@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student exploring how physics shapes nature through organismal biomechanics and animal behavior.
-  And doing some writing along the way.
+  Ecomechanics of turbulence.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: Horned_Lark
@@ -51,7 +50,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
+  skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 

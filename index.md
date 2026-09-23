@@ -2,31 +2,20 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
 <!-- &nbsp; -->
 
-<div style="text-align: center;">
-<img src="/images/damselfly.jpg" alt="Damselfly!" width="600"/>
-<br>
-</div>
-
 # Welcome!
 
-My name is Brady Nichols and I am a second-year PhD student in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) (ABGG) and the [Combes Lab](https://combeslab.faculty.ucdavis.edu/) at the University of California, Davis. My background is in math and physics and I am currently working on applying that to learn about how insects fly in turbulence.
+My name is Brady Nichols and I am in the third year of my PhD in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) (ABGG) and the [Combes Lab](https://combeslab.faculty.ucdavis.edu/) at the University of California, Davis. I got my undergraduate degree in 2024 from Bowdoin College in mathematics and physics, with a minor in biology. Currently, I'm interested in how unsteady winds affect insect ecology. Here you can read more about [myself](./about.md) or [my research](./research.md), or check out [my blog](./blog.md).
 
-# Writing
-[SICB Student Journalism Piece](https://sicb.org/sicb-news/doing-the-righting-thing-how-leaping-water-striders-achieve-a-perfect-landing/) - Result from an interview I conducted as part of my funding for SICB 2025
-
-[The Ethogram](https://theethogram.com/) - Official blog of my graduate group. I've written a "Creature Feature" found here: [https://theethogram.com/2024/09/17/creature-feature-aggregating-anemone/](https://theethogram.com/2024/09/17/creature-feature-aggregating-anemone/), and I've been the editor of the [Field Frame Fridays](https://theethogram.com/category/field-frame/) column for some time (and we are always accepting submission!)
-
-# Other links:
-[LinkedIn](https://www.linkedin.com/in/brady-nichols/)
-
-[Google Scholar](https://scholar.google.com/citations?user=9vYd9d0AAAAJ&hl=en)
+<div style="text-align: center;">
+<img src="/images/damselfly.jpg" alt="A damselfly perched on a stick." width="100%"/>
+<br>
+(Above: Damselflies (order Zygoptera) are close relatives of Dragonflies (order Anisoptera) and have many interesting predation behaviors. I can't recall when I found this one, but they are all over the place in the summer if you look around.)
+</div>
 
 
-<span style="font-size:0.7em;">(This website was made using [Jekyll](https://jekyllrb.com/), a site generator written in Ruby, and is hosted on GitHub Pages.)</span>
-
-# Recent Blog Posts
+<span style="font-size:0.7em;">(I created this website using [Jekyll](https://jekyllrb.com/) and it is hosted on GitHub Pages.)</span>

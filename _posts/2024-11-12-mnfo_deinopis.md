@@ -7,7 +7,7 @@ categories: MNFO, spiders
 
 # My New Favorite Organism: The ogre-faced, net-casting spider
 
-NOTE: This article, in a shorter form, originally appeared as a Halloween special-edition "Creature Feature" for The Ethogram. I expanded it for a fellowship application and decided to toss it up here as an instance of a series I might call "my new favorite organism", highlighting the wonder of learning about an organism you've never even heard of before.
+NOTE: This article, in a shorter form, originally appeared as a Halloween special-edition "Creature Feature" for The Ethogram. I expanded it for a fellowship application and decided to toss it up here.
 
 ---
 
